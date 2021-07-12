@@ -3,3 +3,5 @@ npx serve
 
 
 https://www.youtube.com/watch?v=Elpu7CIuqjY
+
+based on: https://github.com/gopinav/React-TypeScript-Webpack-Starter
